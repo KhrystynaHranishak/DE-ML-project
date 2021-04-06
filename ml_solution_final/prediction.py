@@ -1,6 +1,6 @@
 import joblib
 
-MODEL = joblib.load('model/NB_classifier.pkl')
+MODEL = joblib.load('ml_solution_final/model/NB_classifier.pkl')
 
 
 def predict_probability(text, model=MODEL):
