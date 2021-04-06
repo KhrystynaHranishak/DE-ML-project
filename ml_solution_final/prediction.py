@@ -1,4 +1,3 @@
-from preprocessing import utils_preprocess_text, stopwords_en
 import joblib
 
 MODEL = joblib.load('model/NB_classifier.pkl')
