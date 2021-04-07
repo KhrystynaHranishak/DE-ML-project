@@ -4,4 +4,4 @@ The Jupyter notebooks in this directory contain data exploration analysis and di
 **Modeling approaches:**  
 * TF-IDF with feature selection + Naive Bayes classifier  
 * Fine-tuning Fasttext  
-* Fine-tuning BERT (in progress)
+* Fine-tuning BERT
